@@ -4,4 +4,5 @@ scipy
 matplotlib
 seaborn
 cufflinks
+git+https://github.com/Keris/creditscoring.git
 
